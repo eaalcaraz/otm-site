@@ -7,15 +7,7 @@ PHONE_TEL = "+16027026689"
 AREA = "the Phoenix metro area"
 YEAR = "2026"
 
-LOGO = """<svg viewBox="0 0 64 64" aria-hidden="true">
-<defs><linearGradient id="rg{u}" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E9A13B"/><stop offset=".45" stop-color="#DE5F26"/><stop offset="1" stop-color="#A32A1E"/></linearGradient></defs>
-<g fill="none" stroke="url(#rg{u})" stroke-width="1.6"><circle cx="32" cy="32" r="21"/><circle cx="32" cy="32" r="25.5" opacity=".55"/></g>
-<g fill="url(#rg{u})"><path d="M32 2 L35 20 L32 26 L29 20 Z"/><path d="M32 62 L35 44 L32 38 L29 44 Z"/><path d="M2 32 L20 29 L26 32 L20 35 Z"/><path d="M62 32 L44 29 L38 32 L44 35 Z"/></g>
-<circle cx="32" cy="32" r="17" fill="url(#rg{u})"/>
-<g stroke="#FBFAF8" stroke-width="1.5" stroke-linecap="round" opacity=".95"><path d="M32 20v3"/><path d="M23.5 23.5l2 2"/><path d="M40.5 23.5l-2 2"/></g>
-<path d="M17 39 q6-1 9-5 t7 4 t7-3 q3 2 7 2" fill="none" stroke="#FBFAF8" stroke-width="1.6" stroke-linecap="round" opacity=".95"/>
-<path d="M15 44 q10-3 17 0 t17-1" fill="none" stroke="#FBFAF8" stroke-width="1.4" stroke-linecap="round" opacity=".8"/>
-</svg>"""
+LOGO = '<img src="/img/otm-logo.png" alt="On Time Maintenance" class="logo-img">'
 
 def head(title, desc, path):
     return f"""<!DOCTYPE html>
