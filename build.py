@@ -22,7 +22,7 @@ def head(title, desc, path):
 <meta property="og:description" content="{desc}">
 <meta property="og:type" content="website">
 <meta name="theme-color" content="#FBFAF8">
-<link rel="icon" href="/favicon.png" type="image/png">
+<link rel="icon" href="/favicon-v2.png" type="image/png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
