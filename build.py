@@ -17,7 +17,7 @@ def head(title, desc, path):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title}</title>
 <meta name="description" content="{desc}">
-<link rel="canonical" href="https://REPLACE-WITH-YOUR-DOMAIN.com{path}">
+<link rel="canonical" href="https://ontimephx.com{path}">
 <meta property="og:title" content="{title}">
 <meta property="og:description" content="{desc}">
 <meta property="og:type" content="website">
