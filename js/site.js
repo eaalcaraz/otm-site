@@ -1,7 +1,7 @@
 /* On Time Maintenance — site behaviour. Edit the two lines below before launch. */
 var OTM = {
   FORM_ENDPOINT: "https://formspree.io/f/maeylpkj", /* 1. paste your Formspree form endpoint */
-  EMAIL: "eaalcaraz7@gmail.com"                            /* 2. the address you actually control */
+  EMAIL: "ontimephx@gmail.com"                            /* 2. the address you actually control */
 };
 
 (function(){
